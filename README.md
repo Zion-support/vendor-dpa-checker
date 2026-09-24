@@ -5,12 +5,12 @@ Checks vendor DPAs and SCCs for required clauses, subprocessors and transfer mec
 **Live app:** https://ziontechgroup.com/vendor-dpa-checker/
 
 ## Features
-- GDPR/CCPA clause checklist automation
+- GDPR/CCPA clause coverage check
 - Subprocessor list extraction
-- SCC/transfer-mechanism validation
+- Transfer mechanism validation (SCCs, adequacy)
 
 ## Zion App Network
 Part of the [Zion App Network](https://ziontechgroup.com/apps/).
-Related apps: [Privacy DSR Assistant](https://github.com/Zion-support/privacy-dsr-assistant) · [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) · [Contract Redline Copilot](https://github.com/Zion-support/contract-redline-copilot) · [Compliance Monitor](https://github.com/Zion-support/zion-ai-compliance-monitor)
+Related: [Privacy DSR Assistant](https://github.com/Zion-support/privacy-dsr-assistant) · [Vendor Risk Scorecard](https://github.com/Zion-support/vendor-risk-scorecard) · [Regulatory Change Radar](https://github.com/Zion-support/regulatory-change-radar) · [Contract Redline Copilot](https://github.com/Zion-support/contract-redline-copilot)
 
 © 2026 Zion Tech Group
